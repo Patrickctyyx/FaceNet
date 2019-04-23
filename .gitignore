@@ -10,3 +10,6 @@ sketch_a_net/
 vgg16/
 
 data/*.p
+
+*~
+.DS_Store
