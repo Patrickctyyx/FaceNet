@@ -1,6 +1,8 @@
-img_size = 139
+import os
+
+img_size = 80
 channel = 3
-batch_size = 128
+batch_size = 32
 triplets_selection_batch_size = 1800
 epochs = 15
 patience = 10
@@ -27,3 +29,14 @@ hard_mode = 'hard'
 triplet_select_mode = hard_mode
 
 best_model = 'models/model.01-0.0087.hdf5'
+
+manga_dir = '/Users/patrick/Documents/datasets/manga109_face'
+if not os.path.exists(manga_dir):
+    manga_dir = '/home/patrick/manga109_face'
+backbone_type = 'vgg_16'
+# backbone = 'alexnet'
+# backbone_type = 'manga_facenet'
+# backbone_type = 'sketch_a_net'
+# backbone_type = 'inception_resnet_v2'
+
+num_manga_valid_samples = 349  # 349 triplets
