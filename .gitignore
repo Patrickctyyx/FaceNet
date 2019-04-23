@@ -2,3 +2,11 @@
 __pycache__/
 logs/
 models/
+
+alexnet/
+inception_resnet_v2/
+manga_facenetn/
+sketch_a_net/
+vgg16/
+
+data/*.p
