@@ -5,7 +5,7 @@ models/
 
 alexnet/
 inception_resnet_v2/
-manga_facenetn/
+manga_facenet/
 sketch_a_net/
 vgg16/
 
