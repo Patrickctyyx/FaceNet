@@ -13,3 +13,4 @@ data/*.p
 
 *~
 .DS_Store
+venv/
