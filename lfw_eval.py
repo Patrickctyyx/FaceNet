@@ -3,7 +3,6 @@ import os
 import pickle
 import queue
 from multiprocessing import Process
-from multiprocessing import Process
 
 import cv2 as cv
 import dlib
