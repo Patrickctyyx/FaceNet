@@ -203,6 +203,9 @@ if __name__ == "__main__":
     print(y)
     print(pred)
 
+    # 因为 pred 值只有 0，1
+    # 因此 threshold 只能取到 0，1，2
+    # 即 len(fpr) == 3
     fpr, tpr, thresholds = metrics.roc_curve(y, pred)
     print('fpr: {0}, tpr: {1}, thresholds: {2}'.format(fpr, tpr, thresholds))
     print('showing manga accuracy: ' + str(metrics.auc(fpr, tpr)))

@@ -18,20 +18,20 @@
 <polyline fill="none" stroke="black" points="122,-272.5 178,-272.5 "/>
 <text text-anchor="middle" x="150" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">output:</text>
 <polyline fill="none" stroke="black" points="178,-249.5 178,-295.5 "/>
-<text text-anchor="middle" x="240.5" y="-280.3" font-family="Times New Roman,serif" font-size="14.00">(None, 139, 139, 3)</text>
+<text text-anchor="middle" x="240.5" y="-280.3" font-family="Times New Roman,serif" font-size="14.00">(None, 80, 80, 3)</text>
 <polyline fill="none" stroke="black" points="178,-272.5 303,-272.5 "/>
-<text text-anchor="middle" x="240.5" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">(None, 139, 139, 3)</text>
+<text text-anchor="middle" x="240.5" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">(None, 80, 80, 3)</text>
 </g>
 <!-- 1855790059080 -->
 <g id="node4" class="node"><title>1855790059080</title>
 <polygon fill="none" stroke="black" points="331,-166.5 331,-212.5 620,-212.5 620,-166.5 331,-166.5"/>
-<text text-anchor="middle" x="385" y="-185.8" font-family="Times New Roman,serif" font-size="14.00">model_1: Model</text>
+<text text-anchor="middle" x="385" y="-185.8" font-family="Times New Roman,serif" font-size="14.00">model_1: VGG16</text>
 <polyline fill="none" stroke="black" points="439,-166.5 439,-212.5 "/>
 <text text-anchor="middle" x="467" y="-197.3" font-family="Times New Roman,serif" font-size="14.00">input:</text>
 <polyline fill="none" stroke="black" points="439,-189.5 495,-189.5 "/>
 <text text-anchor="middle" x="467" y="-174.3" font-family="Times New Roman,serif" font-size="14.00">output:</text>
 <polyline fill="none" stroke="black" points="495,-166.5 495,-212.5 "/>
-<text text-anchor="middle" x="557.5" y="-197.3" font-family="Times New Roman,serif" font-size="14.00">(None, 139, 139, 3)</text>
+<text text-anchor="middle" x="557.5" y="-197.3" font-family="Times New Roman,serif" font-size="14.00">(None, 80, 80, 3)</text>
 <polyline fill="none" stroke="black" points="495,-189.5 620,-189.5 "/>
 <text text-anchor="middle" x="557.5" y="-174.3" font-family="Times New Roman,serif" font-size="14.00">(None, 128)</text>
 </g>
@@ -49,9 +49,9 @@
 <polyline fill="none" stroke="black" points="449,-272.5 505,-272.5 "/>
 <text text-anchor="middle" x="477" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">output:</text>
 <polyline fill="none" stroke="black" points="505,-249.5 505,-295.5 "/>
-<text text-anchor="middle" x="567.5" y="-280.3" font-family="Times New Roman,serif" font-size="14.00">(None, 139, 139, 3)</text>
+<text text-anchor="middle" x="567.5" y="-280.3" font-family="Times New Roman,serif" font-size="14.00">(None, 80, 80, 3)</text>
 <polyline fill="none" stroke="black" points="505,-272.5 630,-272.5 "/>
-<text text-anchor="middle" x="567.5" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">(None, 139, 139, 3)</text>
+<text text-anchor="middle" x="567.5" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">(None, 80, 80, 3)</text>
 </g>
 <!-- 1856094970544&#45;&gt;1855790059080 -->
 <g id="edge2" class="edge"><title>1856094970544&#45;&gt;1855790059080</title>
@@ -67,9 +67,9 @@
 <polyline fill="none" stroke="black" points="771.5,-272.5 827.5,-272.5 "/>
 <text text-anchor="middle" x="799.5" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">output:</text>
 <polyline fill="none" stroke="black" points="827.5,-249.5 827.5,-295.5 "/>
-<text text-anchor="middle" x="890" y="-280.3" font-family="Times New Roman,serif" font-size="14.00">(None, 139, 139, 3)</text>
+<text text-anchor="middle" x="890" y="-280.3" font-family="Times New Roman,serif" font-size="14.00">(None, 80, 80, 3)</text>
 <polyline fill="none" stroke="black" points="827.5,-272.5 952.5,-272.5 "/>
-<text text-anchor="middle" x="890" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">(None, 139, 139, 3)</text>
+<text text-anchor="middle" x="890" y="-257.3" font-family="Times New Roman,serif" font-size="14.00">(None, 80, 80, 3)</text>
 </g>
 <!-- 1856096124824&#45;&gt;1855790059080 -->
 <g id="edge3" class="edge"><title>1856096124824&#45;&gt;1855790059080</title>

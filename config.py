@@ -33,7 +33,7 @@ best_model = 'models/model.01-0.0087.hdf5'
 manga_dir = '/Users/patrick/Documents/datasets/manga109_face'
 if not os.path.exists(manga_dir):
     manga_dir = '/home/patrick/manga109_face'
-backbone_type = 'vgg_16'
+backbone_type = 'vgg16'
 # backbone = 'alexnet'
 # backbone_type = 'manga_facenet'
 # backbone_type = 'sketch_a_net'
